@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Bytesized&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Bytesized&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap');
 
 
 .webcam{
@@ -23,9 +24,9 @@ body{
 }
 
 h1{
-    font-family: "Bytesized", sans-serif;
+    /* font-family: "Bytesized", sans-serif; */
+    font-family: "Ubuntu", sans-serif;
     text-align: center;
-    /* font-size: 40px; */
 }
  .emote{
     margin-top: -30px;
