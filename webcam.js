@@ -9,3 +9,13 @@ webcam.start()
   .catch(err => {
     console.log(err);
 });
+
+// senha = prompt ("coloque a senha: (senha: ****)")
+
+// if (senha != "****" ){
+//   alert("tenta de novo");
+//   }
+// if(senha == "****"){
+//   alert("acesso liberado!");
+
+// }

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bytesized&display=swap');
+
+
 .webcam{
     
 margin: 0;
@@ -9,7 +12,21 @@ justify-content: center;
 align-items: center;
 }
 
-.h1{
-    margin-bottom: 0px;
-    margin-left: 45%;
+#webcam{
+    margin-top: -60px;
 }
+
+body{
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    
+    color: rgba(152, 240, 63, 0.548);
+}
+
+h1{
+    font-family: "Bytesized", sans-serif;
+    text-align: center;
+    /* font-size: 40px; */
+}
+ .emote{
+    margin-top: -30px;
+ }
