@@ -17,7 +17,7 @@ align-items: center;
 }
 
 body{
-    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(360deg, #1e1d1d 0%, #ad0e3c 35%, #ff1345 100%);
     
     color: rgba(152, 240, 63, 0.548);
 }
